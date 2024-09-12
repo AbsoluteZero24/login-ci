@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: your-dockerhub-username/myapp:latest
+        image: absolutezero24/login-ci:latest
         ports:
         - containerPort: 80
 ---
